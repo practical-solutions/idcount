@@ -1,0 +1,8 @@
+base    idcount
+author  Gero Gothe
+email   gero.gothe@medizindoku.de
+date    2021-06-02
+name    ID Counter
+desc    Create ID numbers (as counter)
+url     https://www.dokuwiki.org/plugin:idcount
+
